@@ -6,3 +6,5 @@
 13:55   SourceTree 브랜치 생성 후 한번더 추가 VSCode
 
 14:00   cart 브랜치 생성
+
+14:12   cart 브랜치 선택 후 테스트
